@@ -28,6 +28,6 @@ export default function Weather(props) {
         color="#ea6e4b" 
         height={80}      
        width={80} />
-    );
-  }
+     );
+   }
 }
